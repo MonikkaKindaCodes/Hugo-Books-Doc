@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Child Docs on Hugo Books Site</title>
+    <link>http://example.org/docs/childdocone/childdocstwo/</link>
+    <description>Recent content in Child Docs on Hugo Books Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/docs/childdocone/childdocstwo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample Document One</title>
+      <link>http://example.org/docs/childdocone/childdocstwo/_childdocsampleone-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/childdocone/childdocstwo/_childdocsampleone-2/</guid>
+      <description>Sample Doc #  Left Content #  Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa protulit, sed sed aere valvis inhaesuro Pallas animam: qui quid, ignes. Miseratus fonte Ditis conubia.  Mid Content #  Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!  Right Content #  Lorem markdownum insigne. Olympo signis Delphis!</description>
+    </item>
+    
+  </channel>
+</rss>

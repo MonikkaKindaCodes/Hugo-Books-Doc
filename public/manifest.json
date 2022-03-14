@@ -1,0 +1,15 @@
+{
+  "name": "Hugo Books Site",
+  "short_name": "Hugo Books Site",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

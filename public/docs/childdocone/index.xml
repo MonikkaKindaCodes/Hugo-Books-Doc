@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Child Docs on Hugo Books Site</title>
+    <link>http://example.org/docs/childdocone/</link>
+    <description>Recent content in Child Docs on Hugo Books Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/docs/childdocone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample Document One</title>
+      <link>http://example.org/docs/childdocone/_childdocsampleone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/childdocone/_childdocsampleone/</guid>
+      <description>Sample Doc #  Left Content #  Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa protulit, sed sed aere valvis inhaesuro Pallas animam: qui quid, ignes. Miseratus fonte Ditis conubia.  Mid Content #  Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!  Right Content #  Lorem markdownum insigne. Olympo signis Delphis!</description>
+    </item>
+    
+    <item>
+      <title>Sample Document Two</title>
+      <link>http://example.org/docs/childdocone/_childdocsampletwo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/childdocone/_childdocsampletwo/</guid>
+      <description>Expand ↕  Markdown content Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
+ Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit     Natus quaerere #  Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
+    </item>
+    
+  </channel>
+</rss>
